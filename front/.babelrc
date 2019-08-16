@@ -1,0 +1,4 @@
+{
+  "presets": ["flow", "module:metro-react-native-babel-preset"],
+  "plugins": ["relay"]
+}

@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "amerom",
+    "password": "Atlantic1",
+    "database": "hacd",
+    "host": "amerom.c03jnty4d2yl.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "amerom",
+    "password": "Atlantic1",
+    "database": "hacd",
+    "host": "amerom.c03jnty4d2yl.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "amerom",
+    "password": "Atlantic1",
+    "database": "hacd",
+    "host": "amerom.c03jnty4d2yl.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "use_env_variable": true
+}
